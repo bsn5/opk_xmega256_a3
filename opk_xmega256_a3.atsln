@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "opk_xmega256_a3", "opk_xmega256_a3.cproj", "{1330C2F0-8DB9-4DBE-9037-55EAAC842D3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1330C2F0-8DB9-4DBE-9037-55EAAC842D3F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1330C2F0-8DB9-4DBE-9037-55EAAC842D3F}.Debug|AVR.Build.0 = Debug|AVR
+		{1330C2F0-8DB9-4DBE-9037-55EAAC842D3F}.Release|AVR.ActiveCfg = Release|AVR
+		{1330C2F0-8DB9-4DBE-9037-55EAAC842D3F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
