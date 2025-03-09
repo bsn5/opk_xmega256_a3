@@ -8216,6 +8216,7 @@ ISR (TCC1_OVF_vect)
 		}
 	}
 }
+/*
 ISR (TCE0_OVF_vect)		///200 ms
 {
 	TIMER_ADP_TIMEOUT_STOP;
@@ -8253,7 +8254,7 @@ ISR (TCE0_OVF_vect)		///200 ms
 		}
 	}
 }
-
+*/
 ISR (TCD0_OVF_vect)
 {
 	TIMER_ADP_2MS_STOP;
